@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IcySkullhead
-- 👀 I’m interested in creating mods vor video games
+- 👀 I’m interested in creating mods for video games
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: ill add any profiles if necessary
